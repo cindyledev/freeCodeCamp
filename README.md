@@ -20,3 +20,4 @@
 ### Regular Expressions
 
 - Find One or More Criminals in a Hunt
+- Restrict Possible Usernames
