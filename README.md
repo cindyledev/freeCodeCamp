@@ -26,3 +26,4 @@
 - Positive and Negative Lookahead
 - Reuse Patterns Using Capture Groups
 - Use Capture Groups to Search and Replace
+- Remove Whitespace from Start and End
