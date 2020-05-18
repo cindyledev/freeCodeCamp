@@ -23,3 +23,4 @@
 - Restrict Possible Usernames
 - Specify Upper and Lower Number of Matches
 - Specify Only the Lower Number of Matches
+- Positive and Negative Lookahead
