@@ -22,3 +22,4 @@
 - Find One or More Criminals in a Hunt
 - Restrict Possible Usernames
 - Specify Upper and Lower Number of Matches
+- Specify Only the Lower Number of Matches
