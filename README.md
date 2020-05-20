@@ -34,3 +34,4 @@
 - Check For The Presence of an Element With indexOf()
 - Iterate Through All an Array's Items Using For Loops
 - Iterate Through the Keys of an Object with a for...in Statement
+- Modify an Array Stored in an Object
