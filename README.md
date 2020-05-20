@@ -27,3 +27,7 @@
 - Reuse Patterns Using Capture Groups
 - Use Capture Groups to Search and Replace
 - Remove Whitespace from Start and End
+
+### Basic Data Structures
+
+- Copy an Array with the Spread Operator
