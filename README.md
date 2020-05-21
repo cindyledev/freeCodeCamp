@@ -39,3 +39,4 @@
 ### Basic Algorithm Scripting
 
 - Reverse a String
+- Factorialize a Number
