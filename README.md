@@ -41,3 +41,4 @@
 - Reverse a String
 - Factorialize a Number
 - Find the Longest Word in a String
+- Return Largest Numbers in Arrays
