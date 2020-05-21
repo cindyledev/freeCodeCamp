@@ -35,3 +35,7 @@
 - Iterate Through All an Array's Items Using For Loops
 - Iterate Through the Keys of an Object with a for...in Statement
 - Modify an Array Stored in an Object
+
+### Basic Algorithm Scripting
+
+- Reverse a String
