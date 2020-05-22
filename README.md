@@ -45,3 +45,4 @@
 - Confirm the Ending
 - Repeat a String
 - Finders Keepers
+- Title Case a Sentence
