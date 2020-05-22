@@ -46,3 +46,4 @@
 - Repeat a String
 - Finders Keepers
 - Title Case a Sentence
+- Slice and Splice
