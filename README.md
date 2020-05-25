@@ -50,3 +50,6 @@
 - Where do I Belong
 - Mutations
 - Chunky Monkey
+
+### Functional Programming
+- Understand the Hazards of Using Imperative Code
