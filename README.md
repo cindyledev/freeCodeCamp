@@ -52,4 +52,6 @@
 - Chunky Monkey
 
 ### Functional Programming
+
 - Understand the Hazards of Using Imperative Code
+- Refactor Global Variables Out of Functions
