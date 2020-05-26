@@ -58,3 +58,4 @@
 - Use the map Method to Extract Data from an Array
 - Implement map on a Prototype
 - Use the filter Method to Extract Data from an Array
+- Implement the filter Method on a Prototype
