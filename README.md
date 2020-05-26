@@ -56,3 +56,4 @@
 - Understand the Hazards of Using Imperative Code
 - Refactor Global Variables Out of Functions
 - Use the map Method to Extract Data from an Array
+- Implement map on a Prototype
