@@ -62,3 +62,4 @@
 - Use the reduce Method to Analyze Data
 - Use Higher-Order Functions map, filter, or reduce to Solve a Complex Problem
 - Return a Sorted Array Without Changing the Original Array
+- Split a String into an Array Using the split Method
