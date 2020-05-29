@@ -65,3 +65,7 @@
 - Split a String into an Array Using the split Method
 - Apply Functional Programming to Convert Strings to URL Slugs
 - Introduction to Currying and Partial Application
+
+### Intermediate Algorithm Scripting
+
+- Sum All Numbers in a Range
