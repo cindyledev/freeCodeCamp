@@ -76,3 +76,4 @@
 - Pig Latin
 - Search and Replace
 - DNA Pairing
+- Missing letters
