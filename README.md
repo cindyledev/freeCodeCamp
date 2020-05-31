@@ -77,3 +77,4 @@
 - Search and Replace
 - DNA Pairing
 - Missing letters
+- Sorted Union
