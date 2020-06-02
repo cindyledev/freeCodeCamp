@@ -79,3 +79,4 @@
 - Missing letters
 - Sorted Union
 - Convert HTML Entities
+- Sum All Odd Fibonacci Numbers
