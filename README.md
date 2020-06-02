@@ -78,3 +78,4 @@
 - DNA Pairing
 - Missing letters
 - Sorted Union
+- Convert HTML Entities
