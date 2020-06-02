@@ -81,3 +81,4 @@
 - Convert HTML Entities
 - Sum All Odd Fibonacci Numbers
 - Sum All Primes
+- Smallest Common Multiple
