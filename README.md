@@ -80,3 +80,4 @@
 - Sorted Union
 - Convert HTML Entities
 - Sum All Odd Fibonacci Numbers
+- Sum All Primes
