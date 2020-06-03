@@ -89,3 +89,7 @@
 - Arguments Optional
 - Make a Person
 - Map the Debris
+
+## JavaScript Algorithms and Data Structures Projects
+
+- Palindrome Checker
