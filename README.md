@@ -93,3 +93,4 @@
 ## JavaScript Algorithms and Data Structures Projects
 
 - Palindrome Checker
+- Roman Numeral Converter
