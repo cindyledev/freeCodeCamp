@@ -90,7 +90,8 @@
 - Make a Person
 - Map the Debris
 
-## JavaScript Algorithms and Data Structures Projects
+### JavaScript Algorithms and Data Structures Projects
 
 - Palindrome Checker
 - Roman Numeral Converter
+- Caesars Cipher
