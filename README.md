@@ -103,3 +103,4 @@
 ### React
 
 - Write a React Component from Scratch
+- Pass an Array as Props
