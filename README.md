@@ -106,3 +106,4 @@
 - Pass an Array as Props
 - Use PropTypes to Define the Props You Expect
 - Access Props Using this.props
+- Review Using Props with Stateless Functional Components
