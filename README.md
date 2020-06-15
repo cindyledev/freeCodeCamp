@@ -108,3 +108,4 @@
 - Access Props Using this.props
 - Review Using Props with Stateless Functional Components
 - Create a Stateful Component
+- Bind 'this' to a Class Method
