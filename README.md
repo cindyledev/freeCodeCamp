@@ -115,3 +115,4 @@
 - Create a Controlled Form
 - Add Event Listeners
 - Optimize Re-Renders with shouldComponentUpdate
+- Use Advanced JavaScript in React Render Method
