@@ -114,3 +114,4 @@
 - Create a Controlled Input
 - Create a Controlled Form
 - Add Event Listeners
+- Optimize Re-Renders with shouldComponentUpdate
