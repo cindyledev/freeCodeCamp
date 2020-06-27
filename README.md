@@ -117,3 +117,4 @@
 - Optimize Re-Renders with shouldComponentUpdate
 - Use Advanced JavaScript in React Render Method
 - Render with an If-Else Condition
+- Use a Ternary Expression for Conditional Rendering
