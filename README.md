@@ -120,3 +120,4 @@
 - Use a Ternary Expression for Conditional Rendering
 - Render Conditionally from Props
 - Change Inline CSS Condtionally Based on Component State
+- Use Array.map() to Dynamically Render Elements
